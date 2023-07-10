@@ -1,7 +1,0 @@
-{
-  "builderChain": {
-    "mongo": {
-      "clazz": "it.abs.ms.mongopersister.MongoPersister"
-    }
-  }
-}
